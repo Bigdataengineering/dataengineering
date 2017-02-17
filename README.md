@@ -8,4 +8,4 @@ List of content
 2. [Ingestion](#data-ingestion)
 3. [File System] (#file-system)
 
-# DataBases
+# Databases
